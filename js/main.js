@@ -181,6 +181,5 @@ document.addEventListener("DOMContentLoaded", () => {
             if(status) status.innerText = "STATUS: ONLINE";
             console.log("%c SYSTEM RESTORED ", "background: #00ff00; color: #000; font-size: 20px; font-weight: bold;");
         }
-    }
-    
+    } 
 });
